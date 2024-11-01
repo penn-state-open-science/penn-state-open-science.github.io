@@ -3,30 +3,51 @@
 The OSI has a number of initiatives.
 Most of the materials for these initiatives are shared on our [GitHub organization page](https://github.com/penn-state-open-science).
 
+## Calendar
+
+This calendar shows upcoming open scholarship events.
+
+<iframe src="https://calendar.google.com/calendar/embed?src=38c910a83433d3c75b4ff3072a64c8523246afba737856091f5c621a430b8a5c%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="700" height="600" frameborder="0" scrolling="no"></iframe>
+
 ## Surveys
 
-![Obstacles to sharing more broadly with the research community as reported by respondents to the Open Science Survey.](https://penn-state-open-science.github.io/survey-fall-2022/include/img/fig-obstacles-to-sharing-w-comm-1.png)
-
+:::: {.columns}
+::: {.column width="60%"}
 We surveyed the research community about its knowledge of and interest in open science/open scholarship initiative in late 2022 and early 2023. 
 Our findings are [here](https://penn-state-open-science.github.io/survey-fall-2022/) and the full repository is [here](https://github.com/penn-state-open-science/survey-fall-2022).
 A notable feature of this survey is the use of a fully-shared [IRB protocol application](https://penn-state-open-science.github.io/survey-fall-2022/hrp-591.html).
+:::
+::: {.column width="40%"}
+![Obstacles to sharing more broadly with the research community as reported by respondents to the Open Science Survey.](https://penn-state-open-science.github.io/survey-fall-2022/include/img/fig-obstacles-to-sharing-w-comm-1.png){.lightbox}
+:::
+::::
 
 ## Workshops and Bootcamps
 
+:::: {.columns}
+::: {.column width="60%"}
 ### Spring 2024 workshop
-
-![Results of post-event survey about the Spring 2024 workshop by an independent evaluator. ](https://penn-state-open-science.github.io/data-mgmt-2024/include/img/post-survey-fig2.png)
 
 We sponsored a workshop on data management practices in Spring 2024.
 The workshop site is [here](https://penn-state-open-science.github.io/data-mgmt-2024/) and the repo is [here](https://github.com/data-mgmt-2024/).
+:::
+::: {.column width="40%"}
+![Results of post-event survey about the Spring 2024 workshop by an independent evaluator. ](https://penn-state-open-science.github.io/data-mgmt-2024/include/img/post-survey-fig2.png){.lightbox}
+:::
 
+:::: {.columns}
+::: {.column width="60%"}
 ### Summer 2023 Bootcamp
-
-![Registrant survey of interest in various topics.](https://penn-state-open-science.github.io/bootcamp-2023/include/img/survey-1-interests-1.png)
 
 We sponsored a 2.5 day bootcamp on open science practices in August 2023.
 The bootcamp featured a variety of presentations and activities, including a keynote by Tim Errington from the Center for Open Science.
-The bootcamp site is [here](https://penn-state-open-science.github.io/bootcamp-2023/) and the repo is [here](https://github.com/penn-state-open-science/bootcamp-2023)
+The bootcamp site is [here](https://penn-state-open-science.github.io/bootcamp-2023/) and the repo is [here](https://github.com/penn-state-open-science/bootcamp-2023).
+
+:::
+::: {.column width="40%"}
+![Registrant survey of interest in various topics.](https://penn-state-open-science.github.io/bootcamp-2023/include/img/survey-1-interests-1.png){.lightbox}
+:::
+::::
 
 ## Talks
 

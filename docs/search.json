@@ -14,6 +14,13 @@
     "text": "Standard workflow\n\nOpen project\nPull\nMake changes\nRender site\nPreview site\nCommit changes\nPush to GitHub\n\n\n\n\n\n\nflowchart LR\n  A[Open project] --&gt; B(Pull)\n  B --&gt; C{Make changes}\n  C --&gt; D[Render site]\n  D --&gt; E[Preview site]"
   },
   {
+    "objectID": "posts/2024-11-01-events-calendar.html",
+    "href": "posts/2024-11-01-events-calendar.html",
+    "title": "New events calendar",
+    "section": "",
+    "text": "We’ve just added an embedded Google calendar where we’re capturing open scholarship-related events that are happening on campus.\nSee the calendar by visiting this link.\nIf you have something to add, let Rick Gilmore know."
+  },
+  {
     "objectID": "mission.html",
     "href": "mission.html",
     "title": "Mission",
@@ -32,21 +39,28 @@
     "href": "initiatives.html",
     "title": "Initiatives",
     "section": "",
-    "text": "The OSI has a number of initiatives. Most of the materials for these initiatives are shared on our GitHub organization page.\n\n\n\n\n\nObstacles to sharing more broadly with the research community as reported by respondents to the Open Science Survey.\n\n\nWe surveyed the research community about its knowledge of and interest in open science/open scholarship initiative in late 2022 and early 2023. Our findings are here and the full repository is here. A notable feature of this survey is the use of a fully-shared IRB protocol application.\n\n\n\n\n\n\n\n\nResults of post-event survey about the Spring 2024 workshop by an independent evaluator.\n\n\nWe sponsored a workshop on data management practices in Spring 2024. The workshop site is here and the repo is here.\n\n\n\n\n\n\nRegistrant survey of interest in various topics.\n\n\nWe sponsored a 2.5 day bootcamp on open science practices in August 2023. The bootcamp featured a variety of presentations and activities, including a keynote by Tim Errington from the Center for Open Science. The bootcamp site is here and the repo is here\n\n\n\n\nRick Gilmore gave a presentation about the initiative to the Child Study Center in February 2024. The HTML slides are here and the repo is here.\nRick Gilmore gave a guest lecture in the SoDA 501 course in Spring 2024. The HTML slides are here and the repo is here.\nThe University Libraries sponsored a workshop on machine-actionable data management and sharing plans in October 2024. Rick Gilmore gave a short talk about OSI and Penn State’s research data storage initiatives. The HTML slides are here and the repo is here."
+    "text": "The OSI has a number of initiatives. Most of the materials for these initiatives are shared on our GitHub organization page.\n\n\nThis calendar shows upcoming open scholarship events.\n\n\n\n\n\n\n\nWe surveyed the research community about its knowledge of and interest in open science/open scholarship initiative in late 2022 and early 2023. Our findings are here and the full repository is here. A notable feature of this survey is the use of a fully-shared IRB protocol application.\n\n\n\n\nObstacles to sharing more broadly with the research community as reported by respondents to the Open Science Survey.\n\n\n\n\n\n\n\n\n\n\n\nWe sponsored a workshop on data management practices in Spring 2024. The workshop site is here and the repo is here.\n\n\n\n\n\nResults of post-event survey about the Spring 2024 workshop by an independent evaluator.\n\n\n\n\n\n\nWe sponsored a 2.5 day bootcamp on open science practices in August 2023. The bootcamp featured a variety of presentations and activities, including a keynote by Tim Errington from the Center for Open Science. The bootcamp site is here and the repo is here.\n\n\n\n\n\nRegistrant survey of interest in various topics.\n\n\n\n\n\nRick Gilmore gave a presentation about the initiative to the Child Study Center in February 2024. The HTML slides are here and the repo is here.\nRick Gilmore gave a guest lecture in the SoDA 501 course in Spring 2024. The HTML slides are here and the repo is here.\nThe University Libraries sponsored a workshop on machine-actionable data management and sharing plans in October 2024. Rick Gilmore gave a short talk about OSI and Penn State’s research data storage initiatives. The HTML slides are here and the repo is here."
+  },
+  {
+    "objectID": "initiatives.html#calendar",
+    "href": "initiatives.html#calendar",
+    "title": "Initiatives",
+    "section": "",
+    "text": "This calendar shows upcoming open scholarship events."
   },
   {
     "objectID": "initiatives.html#surveys",
     "href": "initiatives.html#surveys",
     "title": "Initiatives",
     "section": "",
-    "text": "Obstacles to sharing more broadly with the research community as reported by respondents to the Open Science Survey.\n\n\nWe surveyed the research community about its knowledge of and interest in open science/open scholarship initiative in late 2022 and early 2023. Our findings are here and the full repository is here. A notable feature of this survey is the use of a fully-shared IRB protocol application."
+    "text": "We surveyed the research community about its knowledge of and interest in open science/open scholarship initiative in late 2022 and early 2023. Our findings are here and the full repository is here. A notable feature of this survey is the use of a fully-shared IRB protocol application.\n\n\n\n\nObstacles to sharing more broadly with the research community as reported by respondents to the Open Science Survey."
   },
   {
     "objectID": "initiatives.html#workshops-and-bootcamps",
     "href": "initiatives.html#workshops-and-bootcamps",
     "title": "Initiatives",
     "section": "",
-    "text": "Results of post-event survey about the Spring 2024 workshop by an independent evaluator.\n\n\nWe sponsored a workshop on data management practices in Spring 2024. The workshop site is here and the repo is here.\n\n\n\n\n\n\nRegistrant survey of interest in various topics.\n\n\nWe sponsored a 2.5 day bootcamp on open science practices in August 2023. The bootcamp featured a variety of presentations and activities, including a keynote by Tim Errington from the Center for Open Science. The bootcamp site is here and the repo is here"
+    "text": "We sponsored a workshop on data management practices in Spring 2024. The workshop site is here and the repo is here.\n\n\n\n\n\nResults of post-event survey about the Spring 2024 workshop by an independent evaluator.\n\n\n\n\n\n\nWe sponsored a 2.5 day bootcamp on open science practices in August 2023. The bootcamp featured a variety of presentations and activities, including a keynote by Tim Errington from the Center for Open Science. The bootcamp site is here and the repo is here.\n\n\n\n\n\nRegistrant survey of interest in various topics.\n\n\n\n\n\nRick Gilmore gave a presentation about the initiative to the Child Study Center in February 2024. The HTML slides are here and the repo is here.\nRick Gilmore gave a guest lecture in the SoDA 501 course in Spring 2024. The HTML slides are here and the repo is here.\nThe University Libraries sponsored a workshop on machine-actionable data management and sharing plans in October 2024. Rick Gilmore gave a short talk about OSI and Penn State’s research data storage initiatives. The HTML slides are here and the repo is here."
   },
   {
     "objectID": "initiatives.html#talks",
@@ -88,7 +102,7 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Welcome to the home page for the Penn State Open Scholarship Initiative. This site summaries our mission, leadership, and initiatives.\nIf you would like to be kept informed about our work or join us, email Rick Gilmore to join our low traffic listserv.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen scholarship in November\n\n\n\n\n\n\nevents\n\n\nR\n\n\ndata visualization\n\n\ncopyright\n\n\nvideo\n\n\n\n\n\n\n\n\n\nNov 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nNew initiative web site\n\n\n\n\n\n\nsite\n\n\n\n\n\n\n\n\n\nOct 31, 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "Welcome to the home page for the Penn State Open Scholarship Initiative. This site summaries our mission, leadership, and initiatives.\nIf you would like to be kept informed about our work or join us, email Rick Gilmore to join our low traffic listserv.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNew events calendar\n\n\n\n\n\n\nevents\n\n\ncalendar\n\n\n\n\n\n\n\n\n\nNov 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nOpen scholarship in November\n\n\n\n\n\n\nevents\n\n\nR\n\n\ndata visualization\n\n\ncopyright\n\n\nvideo\n\n\n\n\n\n\n\n\n\nNov 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nNew initiative web site\n\n\n\n\n\n\nsite\n\n\n\n\n\n\n\n\n\nOct 31, 2024\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/2024-10-31-new-site.html",
