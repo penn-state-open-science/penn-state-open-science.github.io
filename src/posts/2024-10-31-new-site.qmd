@@ -1,5 +1,5 @@
 ---
-title: "2024-10-31-new-site"
+title: "New initiative web site"
 date: 2024-10-31
 categories:
   - site
@@ -7,3 +7,4 @@ categories:
 
 Welcome to our initiative's web site!
 
+It's still a work-in-progress, but it seemed time to create a more attractive home for our various projects.

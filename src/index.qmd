@@ -11,16 +11,6 @@ page-layout: full
 title-block-banner: false
 ---
 
-Welcome to the home page for the Penn State Open Scholarship Initiative!
+Welcome to the home page for the Penn State Open Scholarship Initiative. This site summaries our [mission](mission.qmd), [leadership](people.qmd), and [initiatives](initiatives.qmd).
 
-We aim to make Penn State an international leader in research about open scholarship and a resource that promotes open practices in  research, teaching, and service throughout the university community.
-
-## Leaders
-
-Ana Enriquez, University Libraries</br>
-Rick Gilmore, Psychology</br>
-Frank Hillary, Psychology</br>
-Nicole Lazar, Statistics</br>
-Alaina Pearce, Nutritional Sciences</br>
-Briana Wham, University Libraries
-
+If you would like to be kept informed about our work or join us, email Rick Gilmore to join our low traffic listserv.

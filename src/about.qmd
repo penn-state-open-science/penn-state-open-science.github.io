@@ -1,0 +1,26 @@
+# About
+
+The Penn State Open Scholarship Initiative (OSI) aims to make Penn State an international leader in research about open scholarship and a resource that promotes open practices in research, teaching, and service throughout the university community.
+
+## Leaders
+
+[Ana Enriquez](people.qmd#ana-enriquez), University Libraries</br>
+[Rick Gilmore](people.qmd#rick-gilmore), Psychology</br>
+[Frank Hillary](people.qmd#frank-hillary), Psychology</br>
+[Nicole Lazar](people.qmd#nicole-lazar), Statistics</br>
+[Alaina Pearce](people.qmd#alaina-pearce), Nutritional Sciences</br>
+[Briana Wham](people.qmd#briana-wham), University Libraries
+
+## Support
+
+OSI initiatives have been supported by the following entities:
+
+- [Center for Language Acquisition](https://language.la.psu.edu)
+- [Center for Social Data Analytics](https://soda.la.psu.edu)
+- [Child Study Center (CSC)](https://csc.la.psu.edu)
+- [College of the Liberal Arts](https://la.psu.edu)
+- [Department of Psychology](http://psych.la.psu.edu)
+- [Department of Statistics](https://science.psu.edu/stat)
+- [Institute for Computational and Data Science (ICDS)](https://icds.psu.edu)
+- [Social Sciences Research Institute (SSRI)](https://ssri.psu.edu)
+- [University Libraries](https://libraries.psu.edu)

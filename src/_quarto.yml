@@ -13,11 +13,12 @@ website:
   navbar:
     left:
     - href: index.qmd
-    - text: "Initiatives"
-      href: initiatives.qmd
+    - href: about.qmd
+    - href: initiatives.qmd
     - href: mission.qmd
-    - text: "Resources"
-      href: resources.qmd
+    - href: people.qmd
+    # - text: "Resources"
+    #   href: resources.qmd
     - text: "Site info"
       href: site-info.qmd
     right:
