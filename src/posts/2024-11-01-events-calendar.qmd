@@ -8,6 +8,6 @@ categories:
 
 We've just added an embedded Google calendar where we're capturing open scholarship-related events that are happening on campus.
 
-See the calendar by visiting [this link](initiatives.qmd#calendar).
+See the calendar by visiting [this link](../initiatives.qmd#calendar).
 
 If you have something to add, let Rick Gilmore know.
