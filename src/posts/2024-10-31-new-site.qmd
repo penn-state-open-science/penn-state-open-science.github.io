@@ -1,0 +1,9 @@
+---
+title: "2024-10-31-new-site"
+date: 2024-10-31
+categories:
+  - site
+---
+
+Welcome to our initiative's web site!
+

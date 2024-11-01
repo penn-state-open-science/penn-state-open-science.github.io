@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: "../docs"
+  render:
+    - "*.qmd"
+    - "posts/*.qmd"
+  
+execute: 
+  freeze: auto
+
+website:
+  title: "PSU•OSI"
+  navbar:
+    left:
+    - href: index.qmd
+    - text: "Initiatives"
+      href: initiatives.qmd
+    - href: mission.qmd
+    - text: "Resources"
+      href: resources.qmd
+    - text: "Site info"
+      href: site-info.qmd
+    right:
+        - icon: github
+          text: Github
+          href: https://github.com/penn-state-open-science/
+format:
+  html:
+    theme: default
+    date-modified: last-modified
+    # bibliography: [bib/lab.bib]
+    # csl: bib/apa.csl
+    html-math-method: mathjax

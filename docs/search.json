@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "site-info.html",
+    "href": "site-info.html",
+    "title": "About the site",
+    "section": "",
+    "text": "This site is generated in Quarto using RStudio. The rendered site is hosted using GitHub pages.\nHere is additional information about the R session.\nsessionInfo()\n\nR version 4.4.1 (2024-06-14)\nPlatform: aarch64-apple-darwin20\nRunning under: macOS Sonoma 14.7.1\n\nMatrix products: default\nBLAS:   /Library/Frameworks/R.framework/Versions/4.4-arm64/Resources/lib/libRblas.0.dylib \nLAPACK: /Library/Frameworks/R.framework/Versions/4.4-arm64/Resources/lib/libRlapack.dylib;  LAPACK version 3.12.0\n\nlocale:\n[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8\n\ntime zone: America/New_York\ntzcode source: internal\n\nattached base packages:\n[1] stats     graphics  grDevices utils     datasets  methods   base     \n\nloaded via a namespace (and not attached):\n [1] htmlwidgets_1.6.4 compiler_4.4.1    fastmap_1.1.1     cli_3.6.2        \n [5] tools_4.4.1       htmltools_0.5.8.1 rstudioapi_0.16.0 yaml_2.3.8       \n [9] rmarkdown_2.26    knitr_1.46        jsonlite_1.8.8    xfun_0.44        \n[13] digest_0.6.35     rlang_1.1.3       evaluate_0.23"
+  },
+  {
+    "objectID": "site-info.html#standard-workflow",
+    "href": "site-info.html#standard-workflow",
+    "title": "About the site",
+    "section": "Standard workflow",
+    "text": "Standard workflow\n\nOpen project\nPull\nMake changes\nRender site\nPreview site\nCommit changes\nPush to GitHub\n\n\n\n\n\n\nflowchart LR\n  A[Open project] --&gt; B(Pull)\n  B --&gt; C{Make changes}\n  C --&gt; D[Render site]\n  D --&gt; E[Preview site]"
+  },
+  {
+    "objectID": "mission.html",
+    "href": "mission.html",
+    "title": "Mission",
+    "section": "",
+    "text": "The research community has recently been facing what some call a “reproducibility crisis” – the failure of seemingly well-established results to replicate. At the same time, statisticians have been calling for a rethink of traditionally used approaches, such as thresholding of statistical quanti- ties and declarations of “statistical significance.” The Open Science movement brings together these various strands, emphasizing such principles as sharing of code, data, and research products (publications), as well as practices such as preregistration. Concurrently, the US government and US-based funding agencies (including NSF, NIH, and NASA) are moving towards requiring the sharing of data and other research outputs, since these are essentially supported by the public. In August 2022 the Office of Science and Technology Policy (OSTP) released a memo (the “Nelson Memo”) on ensuring free, immediate, and equitable access to federally funded research. The Nelson Memo calls on federal agencies to update their public access policies no later than Dec. 31 2025 to make “publications and their supporting data” freely available without embargo. In short, the landscape in the US – both rhetorically (around notions of resolving the crisis) and practically – is rapidly shifting. To meet the new requirements as outlined in the Nelson Memo researchers (and, more generally, universities and research institutions) are going to have to change modes of operation; a shift to open practices to at least some extent will be unavoidable at the individual as well as institutional levels, underscoring the need for a Center to coordinate faculty efforts, and to support and educate researchers. Notably, the European Union has already experienced the beginning of this shift.\nTo date, there are few formal university-based centers in the US that address these issues. The Center for Open Science (COS) is based in Charlottesville, VA, but is not affiliated with the University of Virginia (though its founder and director, Brian Nosek, is a faculty member at UVA). Stanford University and the University of California, Berkeley, both have centers that touch on aspects of Open Science and scientific transparency and reproducibility, but these are narrower in scope than what we propose here. In short, the creation of such a Center would put Penn State at the leading edge domestically, and enhance our research community’s ability not only to make a smooth transition to the new landscape, but also to be at the forefront of research and education in Open Science.\nWhile it is possible to “contract out” some work, e.g. for creating a data management plan, or for making data publicly available, there is a cost to researchers for doing so, and to the university more generally. Existing resources – for example, help from the Library in writing a data management plan – are already at or near capacity, even without the new standards. Furthermore, there are “pockets” of PSU researchers exploring the Open Science landscape on their own. We think that a Center, which will serve as a node for interested faculty, postdocs, and students, will both address the challenges in scaling up for the practicalities of meeting the requirements outlined in the Nelson Memo, and create synergy in the community to enhance PSU’s reputation for cutting- edge, replicable, and rigorous research. Indeed, a strong and visible “in-house” infrastructure for data sharing, code verification, and other elements of Open Science practice will be a boon for Penn State researchers, who will not need to hire outside the institution for these services.\nThe Vision of the proposed Center is to promote Open Science principles and practices within the Penn State community and nationally. This entails transparency of methods and reporting of results; sharing of code and data; and sharing of research outputs. The movement towards Open Science is in part a reaction against the reproducibility crisis, as well as high-profile instances of research fraud. Openness and transparency are ways to enhance research robustness and replica- bility; though insufficient in and of themselves, they are key tools towards this goal. Researchers worldwide are embracing Open Science practice, though the United States somewhat lags the Eu- ropean Union in adoption of such practices. Our vision is to create a model of a university-based Open Science center, and to highlight for the research community the benefits of such an approach, while acknowledging the barriers and difficulties. Implementation of Open Science best practices locally will serve as an exemplar for other universities to follow. Through support of educational reforms, the Center and its members will be leaders in implementing open research principles and practices throughout higher-education. And scholarship on Open Science will help to guide the nation’s scientists who wish to incorporate these ideals into their own workflows. In short, the Center’s vision is to be a catalyst for change not just at Penn State, but nationally, and potentially beyond.\nThe Mission of the proposed Center is to make Penn State University a national leader in the field of Open Science through cutting-edge research; educational reform and training at all levels (undergraduate through faculty); support of faculty in incorporating Open Science requirements into their work (data sharing, code verification) and grant proposals (data management plans); and building a scholarly community to share resources and knowledge, leading to synergy across Penn State as a whole. Since Open Science and modern statistical inference (leading to replicable and rigorous research) represent shifts in practice, are threaded through the research pipeline, and continue to evolve with experience, training and support must also be ongoing. The Center will be a nexus of research, education, service, and outreach (see brief description of Cores): supporting and educating the Penn State research community, as well as conducting scholarly investigations of Open Science and its efficacy (“meta-science”). Initial members of the Center come from a variety of units around the University, and represent a range of roles and levels of seniority."
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Resources"
+  },
+  {
+    "objectID": "initiatives.html",
+    "href": "initiatives.html",
+    "title": "Initiatives",
+    "section": "",
+    "text": "Initiatives"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Welcome to the home page for the Penn State Open Scholarship Initiative!\nWe aim to make Penn State an international leader in research about open scholarship and a resource that promotes open practices in research, teaching, and service throughout the university community."
+  },
+  {
+    "objectID": "index.html#leaders",
+    "href": "index.html#leaders",
+    "title": "Home",
+    "section": "Leaders",
+    "text": "Leaders\nAna Enriquez, University Libraries Rick Gilmore, Psychology Frank Hillary, Psychology Nicole Lazar, Statistics Alaina Pearce, Nutritional Sciences Briana Wham, University Libraries"
+  },
+  {
+    "objectID": "posts/2024-10-31-new-site.html",
+    "href": "posts/2024-10-31-new-site.html",
+    "title": "2024-10-31-new-site",
+    "section": "",
+    "text": "Welcome to our initiative’s web site!"
+  }
+]
