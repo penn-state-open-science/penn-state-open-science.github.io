@@ -1,0 +1,21 @@
+---
+title: "Open scholarship in November"
+date: 2024-11-01
+categories:
+  - events
+  - R
+  - data visualization
+  - copyright
+  - video
+---
+
+November brings several opportunities to engage with open scholarship practices through events sponsored by the [Penn State University Libraries](https://libraries.psu.edu):
+
+*Wednesday, November 6, 2-4 pm*: Data Visualization in R, Zoom. [Registration Link](https://psu.zoom.us/webinar/register/WN_v3IngqANQjWCRANkHwjrvQ#/registration)
+
+*Tuesday, November 12, 10-11 am*: Using Video in Courses, Zoom. [Registration link](https://psu.zoom.us/meeting/register/tJIlceytpzMvHNwX0jNTYoZGdgk5e9F57zmL#/registration)
+
+*Tuesday, November 19, 3-4:30 pm*: Advanced Copyright Workshop: Managing Copyright and Permission, Zoom. [Registration Link](https://psu.zoom.us/meeting/register/tJYqdeGhpjotEt0rebpxmySkMao-sN5YCmHj#/registration)
+
+Please contact Ana Enriquez (aee32@psu.edu) with any questions.
+
