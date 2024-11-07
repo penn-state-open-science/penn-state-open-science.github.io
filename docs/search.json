@@ -102,7 +102,7 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Welcome to the home page for the Penn State Open Scholarship Initiative. This site summaries our mission, leadership, and initiatives.\nIf you would like to be kept informed about our work or join us, email Rick Gilmore to join our low traffic listserv.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNew events calendar\n\n\n\n\n\n\nevents\n\n\ncalendar\n\n\n\n\n\n\n\n\n\nNov 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nOpen scholarship in November\n\n\n\n\n\n\nevents\n\n\nR\n\n\ndata visualization\n\n\ncopyright\n\n\nvideo\n\n\n\n\n\n\n\n\n\nNov 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nNew initiative web site\n\n\n\n\n\n\nsite\n\n\n\n\n\n\n\n\n\nOct 31, 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "Welcome to the home page for the Penn State Open Scholarship Initiative. This site summaries our mission, leadership, and initiatives.\nIf you would like to be kept informed about our work or join us, email Rick Gilmore to join our low traffic listserv.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPLoS Biology survey on reproducibility\n\n\n\n\n\n\npaper\n\n\nsurvey\n\n\nreproducibility\n\n\n\n\n\n\n\n\n\nNov 7, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nNew events calendar\n\n\n\n\n\n\nevents\n\n\ncalendar\n\n\n\n\n\n\n\n\n\nNov 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nOpen scholarship in November\n\n\n\n\n\n\nevents\n\n\nR\n\n\ndata visualization\n\n\ncopyright\n\n\nvideo\n\n\n\n\n\n\n\n\n\nNov 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nNew initiative web site\n\n\n\n\n\n\nsite\n\n\n\n\n\n\n\n\n\nOct 31, 2024\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/2024-10-31-new-site.html",
@@ -117,5 +117,12 @@
     "title": "Open scholarship in November",
     "section": "",
     "text": "November brings several opportunities to engage with open scholarship practices through events sponsored by the Penn State University Libraries:\nWednesday, November 6, 2-4 pm: Data Visualization in R, Zoom. Registration Link\nTuesday, November 12, 10-11 am: Using Video in Courses, Zoom. Registration link\nTuesday, November 19, 3-4:30 pm: Advanced Copyright Workshop: Managing Copyright and Permission, Zoom. Registration Link\nPlease contact Ana Enriquez (aee32@psu.edu) with any questions."
+  },
+  {
+    "objectID": "posts/2024-11-07-plos-biology-paper-reproducibility.html",
+    "href": "posts/2024-11-07-plos-biology-paper-reproducibility.html",
+    "title": "PLoS Biology survey on reproducibility",
+    "section": "",
+    "text": "A new paper by Cobey et al. (2024) reports on the responses of n=1,630 respondents to a survey about the degree to which there is a reproducibility crisis in biomedicine.\n\n\n\nFigure 1 from Cobey et al. (2024).\n\n\nReasons indicated for challenges in reproducibility largely mirror those from the Baker (2016) study in Nature.\n\n\n\nTable 2 from Cobey et al. (2024).\n\n\n\n\n\n\nReferences\n\nBaker, Monya. 2016. “1,500 Scientists Lift the Lid on Reproducibility.” Nature News 533 (7604): 452. https://doi.org/10.1038/533452a.\n\n\nCobey, Kelly D, Sanam Ebrahimzadeh, Matthew J Page, Robert T Thibault, Phi-Yen Nguyen, Farah Abu-Dalfa, and David Moher. 2024. “Biomedical Researchers’ Perspectives on the Reproducibility of Research.” PLoS Biology 22 (11): e3002870. https://doi.org/10.1371/journal.pbio.3002870."
   }
 ]

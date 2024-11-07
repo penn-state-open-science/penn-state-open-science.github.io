@@ -1,0 +1,17 @@
+---
+title: "PLoS Biology survey on reproducibility"
+date: 2024-11-07
+categories:
+  - paper
+  - survey
+  - reproducibility
+image: https://journals.plos.org/plosbiology/article/figure/image?size=original&download=&id=10.1371/journal.pbio.3002870.g001
+---
+
+A new paper by @Cobey2024-re reports on the responses of *n*=1,630 respondents to a survey about the degree to which there is a reproducibility crisis in biomedicine.
+
+![Figure 1 from @Cobey2024-re.](https://journals.plos.org/plosbiology/article/figure/image?size=original&download=&id=10.1371/journal.pbio.3002870.g001)
+
+Reasons indicated for challenges in reproducibility largely mirror those from the @Baker2016-rz study in *Nature*.
+
+![Table 2 from @Cobey2024-re.](https://journals.plos.org/plosbiology/article/figure/image?size=large&download=&id=10.1371/journal.pbio.3002870.t002)

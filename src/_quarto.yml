@@ -29,6 +29,6 @@ format:
   html:
     theme: default
     date-modified: last-modified
-    # bibliography: [bib/lab.bib]
+    bibliography: [include/bib/open-sci.bib]
     # csl: bib/apa.csl
     html-math-method: mathjax
