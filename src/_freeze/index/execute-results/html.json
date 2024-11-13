@@ -1,0 +1,17 @@
+{
+  "hash": "4c09ad102d3e081e17b1a93242cd4a9b",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Open Scholarship Initiative\"\nlisting:\n  contents: posts\n  sort: \"date desc\"\n  type: default\n  categories: true\n  sort-ui: false\n  filter-ui: false\npage-layout: full\ntitle-block-banner: false\n---\n\n\n\n\nWelcome to the home page for the Penn State Open Scholarship Initiative. This site summaries our [mission](mission.qmd), [leadership](people.qmd), and [initiatives](initiatives.qmd).\n\nIf you would like to be kept informed about our work via a low traffic listserv, scan the QR code below, click [here](https://lists.psu.edu/cgi-bin/wa?SUBED1=L-OPEN-SCIENCE&X=OF27BE9DC465DB03AC2) or email [Rick Gilmore](people.qmd#rick-gilmore).\n\n\n\n\n::: {.cell layout-align=\"left\"}\n::: {.cell-output-display}\n![Subscribe to l-open-science@lists.psu.edu](index_files/figure-html/fig-open-scholarship-listserve-subscribe-1.png){#fig-open-scholarship-listserve-subscribe fig-align='left' width=2400}\n:::\n:::\n\n\n\n\n## Posts",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

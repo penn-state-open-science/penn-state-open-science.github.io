@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Open Scholarship Initiative"
 listing:
   contents: posts
   sort: "date desc"
@@ -13,4 +13,15 @@ title-block-banner: false
 
 Welcome to the home page for the Penn State Open Scholarship Initiative. This site summaries our [mission](mission.qmd), [leadership](people.qmd), and [initiatives](initiatives.qmd).
 
-If you would like to be kept informed about our work or join us, email Rick Gilmore to join our low traffic listserv.
+If you would like to be kept informed about our work via a low traffic listserv, scan the QR code below, click [here](https://lists.psu.edu/cgi-bin/wa?SUBED1=L-OPEN-SCIENCE&X=OF27BE9DC465DB03AC2) or email [Rick Gilmore](people.qmd#rick-gilmore).
+
+```{r, echo=FALSE}
+#| label: fig-open-scholarship-listserve-subscribe
+#| fig-cap: "Subscribe to l-open-science@lists.psu.edu"
+#| fig-width: 25
+#| fig-align: left
+listserv_qr <- qrcode::qr_code("https://lists.psu.edu/cgi-bin/wa?SUBED1=L-OPEN-SCIENCE&X=OF27BE9DC465DB03AC2")
+plot(listserv_qr)
+```
+
+## Posts

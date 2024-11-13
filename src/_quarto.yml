@@ -13,6 +13,7 @@ website:
   navbar:
     left:
     - href: index.qmd
+      text: "Home"
     - href: about.qmd
     - href: initiatives.qmd
     - href: mission.qmd

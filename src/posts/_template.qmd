@@ -1,0 +1,11 @@
+---
+title: ""
+date: 2024-11-13
+categories:
+  - paper
+  - survey
+  - reproducibility
+image: path/to/image.png
+---
+
+This is a post template.
