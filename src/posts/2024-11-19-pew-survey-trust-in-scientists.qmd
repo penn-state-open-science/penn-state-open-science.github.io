@@ -1,0 +1,15 @@
+---
+title: "We have some work to do"
+date: 2024-11-19
+categories:
+  - survey
+  - public opinion
+  - trust in science
+image: https://www.pewresearch.org/wp-content/uploads/sites/20/2024/11/PS_2024.11.14_trust-in-science_00-01.png
+---
+
+![@Tyson2024-sk](https://www.pewresearch.org/wp-content/uploads/sites/20/2024/11/PS_2024.11.14_trust-in-science_00-01.png){#fig-pew-survey-trust-2024-11-19}
+
+A new Pew Research Center survey [@Tyson2024-sk] conducted a few weeks ago provides information about "Public Trust in Scientists and Views on Their Role in Policymaking."
+
+Partisan differences, the need for scientists to communicate more clearly, and mixed views about scientists' proper role in public policy debates emerge as key findings.

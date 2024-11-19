@@ -1,6 +1,6 @@
 ---
 title: "Open Scholarship Happy Hour Tues 11/19 4:30p"
-date: 2024-11-19
+date: 2024-11-13
 categories:
   - social event
 image: ../include/img/lobby-bar.png
