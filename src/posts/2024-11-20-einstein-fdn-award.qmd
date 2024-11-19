@@ -1,0 +1,13 @@
+---
+title: "Einstein Foundation Berlin announces 2024 awards for promoting quality in research"
+date: 2024-11-20
+categories:
+  - Einstein Foundation
+  - image duplication
+---
+
+![https://www.einsteinfoundation.de/en/award](../include/img/einstein-fdn-2024-winners.png){#fig-einstein-fdn-awards-2024}
+
+The Einstein Foundation Berlin has announced [winners](https://www.einsteinfoundation.de/en/award) of the 2024 awards for promoting quality in research.
+Dutch microbiologist Elisabeth Bik is among the winners.
+Bik's work has [uncovered multiple errors in research papers](@Shen2020-ry), especially duplicated images.
