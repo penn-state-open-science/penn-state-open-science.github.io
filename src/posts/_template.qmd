@@ -1,13 +1,10 @@
 ---
-title: "Cool title"
-date: 2024-11-20
+title: "Some great title"
+date: 2024-12-02
 categories:
-  - survey
-image: path/to/image.png
+  - talk
+  - reproducibility
+  - incentives
+image: path/to/img.png
 ---
 
-![](../include/img/einstein-fdn-2024-winners.png){#fig-einstein-fdn-awards-2024}
-
-The Einstein Foundation Berlin has announced [winners](https://www.einsteinfoundation.de/en/award) of the 2024 award for promoting quality in research.
-Dutch microbiologist Elisabeth Bik is among the winners.
-Bik's work has uncovered 

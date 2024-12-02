@@ -1,0 +1,13 @@
+---
+title: "The cost of open access scientific publishing"
+date: 2024-12-02
+categories:
+  - paper
+  - open access
+  - publishing
+image: "../include/img/haustein-2024-fig-03.png"
+---
+
+A new paper by @Haustein2024-ep estimates the article processing charges paid to six publishers for open access to scientific publications.
+
+![Figure 2 from @Haustein2024-ep](../include/img/haustein-2024-fig-02.png)

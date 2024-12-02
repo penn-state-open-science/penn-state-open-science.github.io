@@ -1,0 +1,14 @@
+---
+title: "Ioannidis on why most published research findings are (still) false"
+date: 2024-12-02
+categories:
+  - talk
+  - reproducibility
+  - incentives
+  - video
+image: "../include/img/ioannidis-john.png"
+---
+
+{{< video https://youtu.be/vY9mGJQFdyE?si=SbkT-FzcC0_rHqYn >}}
+
+In this talk [@The-Institute-of-Art-and-Ideas2024-hx] at the [Institute of Art and Ideas,](https://iai.tv/) John Ioannidis, the author of a provocative 2005 paper [@Ioannidis2005-sf], presents an update on the reliability of the scientific literature in the 20 years since his original paper.
