@@ -1,0 +1,23 @@
+---
+title: "Love Data Week 2025"
+date: 2024-12-12
+categories:
+  - data
+  - events
+  - calendar
+  - data viz
+image: "https://btaa.org/images/default-source/love-data-week/2025-love-data-week/love-data-week.webp?sfvrsn=ea695050_1"
+---
+
+![Submission by Penn State's Jonathan Petersen for the [2024 Data Viz Championship](https://btaa.org/research/love-data-week/2024_Data_Viz_Championship/student-data-viz-gallery)](https://btaa.org/images/default-source/love-data-week/psu-student_thumbnail7cecf021-8fdf-43dc-9863-92d721ec44fd.webp?sfvrsn=ff3d9d52_1){#fig-j-petersen-2024-data-viz}
+
+Penn State joins institutions around the globe for [International Love Data Week](https://www.icpsr.umich.edu/web/about/cms/3799), February 10-14, 2025. Most of Penn State's activities occur in conjunction with the [Big Ten Academic Alliance](https://btaa.org).
+
+An activity of particular interest to open Big Ten scholars is the data visualization (data viz) [championship](https://btaa.org/research/love-data-week/compete-in-the-2025-data-viz-championship).
+The competition has separate categories for students (grad or undergrad) and faculty/staff.
+See the 2024 winners [here](https://btaa.org/research/love-data-week/2024_Data_Viz_Championship).
+
+Details about the 2025 Love Data Week schedule at Penn State are forthcoming.
+[Here](https://www.psu.edu/news/academics/story/penn-state-announces-schedule-events-international-love-data-week-2024) is the schedule from 2024.
+
+So, mark your calendars and consider giving the data viz championship a go.
