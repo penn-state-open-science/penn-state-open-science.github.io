@@ -12,10 +12,16 @@ image: "https://btaa.org/images/default-source/love-data-week/2025-love-data-wee
 ![Submission by Penn State's Jonathan Petersen for the [2024 Data Viz Championship](https://btaa.org/research/love-data-week/2024_Data_Viz_Championship/student-data-viz-gallery)](https://btaa.org/images/default-source/love-data-week/psu-student_thumbnail7cecf021-8fdf-43dc-9863-92d721ec44fd.webp?sfvrsn=ff3d9d52_1){#fig-j-petersen-2024-data-viz}
 
 Penn State joins institutions around the globe for [International Love Data Week](https://www.icpsr.umich.edu/web/about/cms/3799), February 10-14, 2025. Most of Penn State's activities occur in conjunction with the [Big Ten Academic Alliance](https://btaa.org).
+[Here](https://www.psu.edu/news/university-libraries/story/university-libraries-seeks-entries-2025-btaa-data-visualization) is the Penn Stte Newswire announcement about Penn State's participation.
 
 An activity of particular interest to open Big Ten scholars is the data visualization (data viz) [championship](https://btaa.org/research/love-data-week/compete-in-the-2025-data-viz-championship).
 The competition has separate categories for students (grad or undergrad) and faculty/staff.
 See the 2024 winners [here](https://btaa.org/research/love-data-week/2024_Data_Viz_Championship).
+As the Newswire article observes, Distinugished Professor of Earth Sciences, Laura Guertin from Penn State Brandywine won the BTAA Data Viz Champion title in 2024, see @fig-l-guertin-2024-data-viz.
+
+!["Blue Skies and Cloud Cover" by Laura Guertin](https://btaa.org/images/default-source/love-data-week/laura_guertin_thumbnail.webp?sfvrsn=a6a11c8d_1){#fig-l-guertin-2024-data-viz}
+
+Data visualization submissions for the 2025 competition are due January 17.
 
 Details about the 2025 Love Data Week schedule at Penn State are forthcoming.
 [Here](https://www.psu.edu/news/academics/story/penn-state-announces-schedule-events-international-love-data-week-2024) is the schedule from 2024.
