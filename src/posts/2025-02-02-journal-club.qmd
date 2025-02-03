@@ -1,10 +1,11 @@
 ---
 title: "Open scholarship journal club begins"
-date: 2024-02-02
+date: 2025-02-02
 categories:
   - citation
   - open data
   - events
+image: https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pone.0230416/1/pone.0230416.g001.PNG_L?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20250203%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250203T122028Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=522398ae0ca8eab03ad0d1c6a26266ec4e63466e078809da87e44f44064fe19c125f79cdb582d99a2ecd2dc383eacbcc1a549955f8219b9704fdc7ae9146bea854db7890689492da108349e84759a067e678d625dac298821bc0f0b3066962504db4f9bf79f9f2651f9fce7d3b7bf5638abf562b58ba8e28db773c1e0bf7c2b2c62c21507fe7e5e04c334db3d8f5062da0a4c09ce027110edff5c355c0d0afc586017a9989477cf67dbd8fcb26839e1e6ab567c1d69f467c089b792a8a45c885b57b99a516f356b4af4a268e4cda9978eec2db1eafd8b3e7fc31cc70b4ee109e0ba0456f5824944c0ec59ff5c56f64b06af4fe95f40d0987b13668a411a911ba
 ---
 
 All members of the Penn State community are welcome to participate in an open scholarship journal club meeting on the first and third Tuesdays of the month from 12 to 1 p.m. in Pattee Library's Music Seminar Room (Pattee W325). We will discuss research articles related to open scholarship. You are welcome to bring a brown bag lunch. Meetings begin tomorrow, February 4, discussing the articles shown below:
