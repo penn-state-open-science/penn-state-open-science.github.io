@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.56">
+<meta name="generator" content="quarto-1.6.40">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,10 +35,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-79108a0fc1995748cbd19a5b0e3e3e7c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
 <link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
@@ -149,7 +149,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Modified</div>
     <div class="quarto-title-meta-contents">
-      <p class="date-modified">November 1, 2024</p>
+      <p class="date-modified">February 4, 2025</p>
     </div>
   </div>
     
@@ -199,7 +199,9 @@ ul.task-list li input[type="checkbox"] {
 <figcaption>Results of post-event survey about the Spring 2024 workshop by an independent evaluator.</figcaption>
 </figure>
 </div>
-</div><div class="columns">
+</div>
+</div>
+<div class="columns">
 <div class="column" style="width:60%;">
 <section id="summer-2023-bootcamp" class="level3">
 <h3 class="anchored" data-anchor-id="summer-2023-bootcamp">Summer 2023 Bootcamp</h3>
@@ -213,15 +215,15 @@ ul.task-list li input[type="checkbox"] {
 </figure>
 </div>
 </div>
-</div><section id="talks" class="level2">
+</div>
+</section>
+<section id="talks" class="level2">
 <h2 class="anchored" data-anchor-id="talks">Talks</h2>
 <p>Rick Gilmore gave a presentation about the initiative to the Child Study Center in February 2024. The HTML slides are <a href="https://penn-state-open-science.github.io/csc-odds-2024-02-16/">here</a> and the repo is <a href="https://github.com/penn-state-open-science/csc-odds-2024-02-16">here</a>.</p>
 <p>Rick Gilmore gave a guest lecture in the SoDA 501 course in Spring 2024. The HTML slides are <a href="https://penn-state-open-science.github.io/soda-501-2024-spring/">here</a> and the repo is <a href="https://github.com/penn-state-open-science/soda-501-2024-spring">here</a>.</p>
 <p>The University Libraries sponsored a workshop on machine-actionable data management and sharing plans in October 2024. Rick Gilmore gave a short talk about OSI and Penn State’s research data storage initiatives. The HTML slides are <a href="https://penn-state-open-science.github.io/machine-actionable-dmsp-2024-10-01/index.html">here</a> and the repo is <a href="https://github.com/penn-state-open-science/machine-actionable-dmsp-2024-10-01">here</a>.</p>
 
 
-</section>
-</div>
 </section>
 </section>
 
@@ -308,8 +310,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -420,7 +420,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
@@ -647,7 +646,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-<script>var lightboxQuarto = GLightbox({"openEffect":"zoom","loop":false,"selector":".lightbox","descPosition":"bottom","closeEffect":"zoom"});
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
 (function() {
   let previousOnload = window.onload;
   window.onload = () => {

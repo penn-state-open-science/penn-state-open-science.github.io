@@ -34,6 +34,7 @@ The workshop site is [here](https://penn-state-open-science.github.io/data-mgmt-
 ::: {.column width="40%"}
 ![Results of post-event survey about the Spring 2024 workshop by an independent evaluator. ](https://penn-state-open-science.github.io/data-mgmt-2024/include/img/post-survey-fig2.png){.lightbox}
 :::
+::::
 
 :::: {.columns}
 ::: {.column width="60%"}
