@@ -12,6 +12,6 @@ image: "../include/img/pone.0230416.g001.png"
 
 All members of the Penn State community are welcome to participate in an open scholarship journal club meeting on the first and third Tuesdays of the month from 12 to 1 p.m. in Pattee Library's Music Seminar Room (Pattee W325). We will discuss research articles related to open scholarship. You are welcome to bring a brown bag lunch. Meetings begin tomorrow, February 4, discussing the articles shown below:
 
-- *February 4*: Giovanni Colavizza et al., “The Citation Advantage of Linking Publications to Research Data,” PLOS ONE 15, no. 4 (April 22, 2020): e0230416, https://doi.org/10.1371/journal.pone.0230416.
-- *February 18*: Ilias Berberi and Dominique G. Roche, “No Evidence That Mandatory Open Data Policies Increase Error Correction,” Nature Ecology & Evolution 6, no. 11 (November 2022): 1630–33, https://doi.org/10.1038/s41559-022-01879-9.
+- *February 4*: Giovanni Colavizza et al., “The Citation Advantage of Linking Publications to Research Data,” PLOS ONE 15, no. 4 (April 22, 2020): e0230416, <https://doi.org/10.1371/journal.pone.0230416>.
+- *February 18*: Ilias Berberi and Dominique G. Roche, “No Evidence That Mandatory Open Data Policies Increase Error Correction,” Nature Ecology & Evolution 6, no. 11 (November 2022): 1630–33, <https://doi.org/10.1038/s41559-022-01879-9>.
 - *March 4*: To be decided. Join our Zotero group, [Research on Open Scholarship](https://www.zotero.org/groups/5819247/research_about_open_scholarship), to suggest articles.
