@@ -1,0 +1,15 @@
+---
+title: "Better data practices for research: A workshop"
+date: 2025-03-28
+categories:
+  - events
+  - reproducibility
+  - data management
+image: "https://headguruteacher.files.wordpress.com/2017/02/9464b325-d2f4-4604-8258-82093bf93af6.jpg"
+---
+
+![Workshop registrants as of 2025-03-18 by unit and career stage](https://penn-state-open-science.github.io/data-mgmt-2025/include/fig/fig-registrations-college-position-1.png)
+
+By popular demand, we're offering a workshop on data management and organization practices on Thursday, March 27, 2025 from 8:30 am to 3:00 pm in the Dewey Room in the University Library. 
+
+There is no fee, but preregistration is required. Please visit <https://penn-state-open-science.github.io/data-mgmt-2025/> to register and for more details.
