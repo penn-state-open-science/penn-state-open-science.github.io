@@ -5,7 +5,7 @@ categories:
   - data
   - events
   - calendar
-  - data viz
+  - data visualization
 image: "https://btaa.org/images/default-source/love-data-week/2025-love-data-week/love-data-week.webp?sfvrsn=ea695050_1"
 ---
 
