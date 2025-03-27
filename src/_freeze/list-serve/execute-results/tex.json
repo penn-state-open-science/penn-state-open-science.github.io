@@ -1,0 +1,17 @@
+{
+  "hash": "e13521e3a56fdbcefdf6850fb67a5d0b",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"list-serve\"\nformat: pdf\n---\n\n\n\n## Sign up for the Open Scholarship List!\n\n\n\n::: {.cell layout-align=\"left\"}\n::: {.cell-output-display}\n![Subscribe to l-open-science@lists.psu.edu](list-serve_files/figure-pdf/fig-open-scholarship-listserve-subscribe-1.pdf){#fig-open-scholarship-listserve-subscribe fig-align='left'}\n:::\n:::",
+    "supporting": [
+      "list-serve_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": null,
+    "postProcess": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "hash": "70ff17a7e311e99e95ec840c69440c08",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Open Scholarship List\"\nsubtitle: \"Sign up here\"\nformat: docx\n---\n\n::: {.cell layout-align=\"center\"}\n::: {.cell-output-display}\n![](list-serve_files/figure-docx/unnamed-chunk-1-1.png){fig-align='center'}\n:::\n:::",
+    "supporting": [
+      "list-serve_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": null,
+    "postProcess": false
+  }
+}

@@ -1,0 +1,11 @@
+---
+title: "Open Scholarship List"
+subtitle: "Sign up here"
+format: docx
+---
+
+```{r, echo=FALSE}
+#| fig-align: center
+listserv_qr <- qrcode::qr_code("https://lists.psu.edu/cgi-bin/wa?SUBED1=L-OPEN-SCIENCE&X=OF27BE9DC465DB03AC2")
+plot(listserv_qr)
+```
