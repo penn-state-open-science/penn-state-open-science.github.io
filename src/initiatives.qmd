@@ -9,6 +9,34 @@ This calendar shows upcoming open scholarship events.
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&showPrint=0&mode=AGENDA&src=MzhjOTEwYTgzNDMzZDNjNzViNGZmMzA3MmE2NGM4NTIzMjQ2YWZiYTczNzg1NjA5MWY1YzYyMWE0MzBiOGE1Y0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23a2845e" style="border:solid 1px #777" width="700" height="600" frameborder="0" scrolling="no"></iframe>
 
+## Journal club
+
+During the Spring 2025 semester, we meet in the Music Seminar Room in Pattee Library (Pattee W325)
+
+Sign up for our Hypothes.is group: <https://hypothes.is/groups/mpnnB6bb/psu-osi> to provide your own annotations of the readings.
+
+Contribute papers to our Zotero Group: <https://www.zotero.org/groups/5819247/research_about_open_scholarship>
+
+### Tuesday, April 15, 2025
+
+Scheel, A. M. (2022). Why most psychological research findings are not even wrong. *Infant and Child Development*, *31*(1). https://doi.org/10.1002/icd.2295
+
+### Tuesday, April 1, 2025
+
+Thompson, W. H., Wright, J., Bissett, P. G., & Poldrack, R. A. (2020). Dataset decay and the problem of sequential analyses on open datasets. *eLife*, *9*. https://doi.org/10.7554/eLife.53498
+
+### Tuesday, March 18, 2025
+
+Bloch, J., & Samuelson, P. (2022, November). Some misconceptions about software in the copyright literature. *Proceedings of the 2022 Symposium on Computer Science and Law. CSLAW ’22: Symposium on Computer Science and Law*, Washington DC USA. https://doi.org/10.1145/3511265.3550449
+
+### Tuesday, February 18, 2025
+
+Berberi, I., & Roche, D. G. (2022). No evidence that mandatory open data policies increase error correction. Nature Ecology & Evolution, 6(11), 1630–1633. https://doi.org/10.1038/s41559-022-01879-9
+
+### Tuesday, February 4, 2025
+
+Colavizza, G., Hrynaszkiewicz, I., Staden, I., Whitaker, K., & McGillivray, B. (2020). The citation advantage of linking publications to research data. PloS One, 15(4), e0230416. https://doi.org/10.1371/journal.pone.0230416
+
 ## Surveys
 
 :::: {.columns}
