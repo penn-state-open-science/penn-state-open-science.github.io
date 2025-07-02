@@ -53,6 +53,19 @@ A notable feature of this survey is the use of a fully-shared [IRB protocol appl
 ## Workshops and Bootcamps
 
 :::: {.columns}
+::: {.column width=60%}
+### Open Scholarship Bootcamp August 2025
+
+We're hosting another Open Scholarship Bootcamp August 13-15, 2025 at the University Libraries.
+
+See the [website](https://penn-state-open-science.github.io/bootcamp-2025/) for more information.
+:::
+::: {.column width=40%}
+![Barbara I. Dewey Room at the Penn State University Libraries](https://psu-gatsby-files-prod.s3.amazonaws.com/s3fs-public/DSC_6681%20for%20PSNews%20Dewey%20room%20naming.jpg)
+:::
+::::
+
+:::: {.columns}
 ::: {.column width = "60%"}
 ### Spring 2025 workshop
 
