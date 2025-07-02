@@ -1,0 +1,61 @@
+---
+title: "Open Scholarship Bootcamp registration now open"
+date: 2025-07-03
+categories:
+  - talk
+  - events
+  - public
+  - social event
+  - workshop
+  - open access
+  - data management
+image: "../include/img/banner.png"
+---
+
+Registration is now open for the 2025 Open Science Bootcamp, taking place Wednesday, August 13 through Friday, August 15 at the University Park campus. 
+This immersive 2.5-day event is open to all Penn State faculty, staff, and students and offers a hands-on introduction to open science practices that can enhance research transparency, rigor, and impact.
+
+**Bootcamp Website & Agenda**: <https://penn-state-open-science.github.io/bootcamp-2025/>
+
+**Register by August 1st**: <https://forms.gle/R6SzM4TNppGFzjEY9>
+
+Bootcamp directors Rick Gilmore and Alaina Pearce invite you to join them for an event that seeks to empower researchers to make science more open, reproducible, and impactful.
+
+## Bootcamp details
+
+The Bootcamp will focus on these themes:
+
+- What open science is and why it matters
+- Ethical and practical considerations of openness
+- Tools and workflows for reproducible research (including R, R Markdown, Quarto, Python, and Jupyter Notebooks)
+- How to manage data and get credit for sharing data and materials
+
+Attendees wil enjoy continental breakfasts and light lunches (with vegan and vegetarian options), connect with colleagues, and develop practical skills to bring openness to your research.
+
+*Please note*: Space is limited, and registration is a commitment to attend all sessions of the Bootcamp.
+
+## Featured Keynotes
+
+:::{.callout-note}
+## Logistics
+
+The keynotes will be held in Foster Auditorium, 102 Paterno Library and are open to the entire Penn State Community.
+:::
+
+### Wednesday, August 13 at 10:45 AM
+
+Dr. Sarah Rajtmajer (Penn State) \
+"Harnessing AI for Scientific Integrity"
+
+### Thursday, August 14 at 10:45 AM 
+
+Dr. Lynda Kellam (University of Pennsylvania) \
+"Rescuing and Preserving Public Data: The Data Rescue Project"
+
+## More information?
+
+Have questions? Contact Alaina Pearce at azp271@psu.edu.
+Feel free to share this announcement with interested colleagues and trainees.
+
+
+![](../include/img/banner.png)
