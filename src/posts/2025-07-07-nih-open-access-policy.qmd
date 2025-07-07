@@ -1,0 +1,19 @@
+---
+title: "New NIH Open Access Policy goes into effect July 1, 2025"
+categories:
+  - open access
+  - policy
+  - publishing
+---
+
+The National Institutes of Health (NIH) released the [NIH Access Policy](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-25-047.html) on December 17, 2024. On April 30, 2025, NIH [updated the policy](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-25-101.html) to have an effective date of **July 1, 2025**. 
+
+The policy requires Author Accepted Manuscripts accepted for publication in a journal on or after July 1, 2025, to be submitted to PubMed Central upon acceptance for publication, for public availability without embargo upon the Official Date of Publication. 
+
+*What do authors need to do to comply with the 2024 NIH Public Access Policy?*
+
+Beginning July 1, 2025, submit any Accepted Manuscripts to the NIH Manuscript Submission System upon acceptance by the journal. If prompted, specify that there be no embargo period. Some journals will submit articles to PubMed Central on behalf of authors, in which case it is not necessary for the author to submit. Compliance with the policy remains the responsibility of the NIH awardee, not the journal. If your journal is going to submit for you, you should still retain a copy of your accepted manuscript so that you are also in a position to comply. For more information, please consult:
+
+Consider including the following recommended text from NIH in new manuscript submissions to journals: “This manuscript is the result of funding in whole or in part by the National Institutes of Health (NIH). It is subject to the NIH Public Access Policy. Through acceptance of this federal funding, NIH has been given a right to make this manuscript publicly available in PubMed Central upon the Official Date of Publication, as defined by NIH.” This text may accompany the required funding acknowledgement.
+
+For more FAQ and guidance on the 2024 NIH Public Access Policy and 2023 NIH Data Management and Sharing Policy, see <https://researchsupport.psu.edu/orp/nih-data-requirements/>.
