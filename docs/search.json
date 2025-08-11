@@ -14,6 +14,55 @@
     "text": "Standard workflow\n\nOpen project\nPull\nMake changes\nRender site\nPreview site\nCommit changes\nPush to GitHub\n\n\n\n\n\n\nflowchart LR\n  A[Open project] --&gt; B(Pull)\n  B --&gt; C{Make changes}\n  C --&gt; D[Render site]\n  D --&gt; E[Preview site]"
   },
   {
+    "objectID": "posts/2025-08-11-bootcamp-this-week.html",
+    "href": "posts/2025-08-11-bootcamp-this-week.html",
+    "title": "Open Scholarship Bootcamp begins Wednesday, August 13",
+    "section": "",
+    "text": "The Penn State Open Scholarship Bootcamp begins this Wednesday, August 13, 2025. The Bootcamp is open to all Penn Staters and starts with a continental breakfast at 8:30 am in the Pattee Library Dewey Room.\nThe 2 1/2 day event features keynote talks by leaders in open scholarship, hands-on workshops, lively discussions, and multiple opportunities for informal networking and socializing.\nThe Bootcamp website and detailed schedule may be found here:\nhttps://penn-state-open-science.github.io/bootcamp-2025/"
+  },
+  {
+    "objectID": "posts/2025-08-11-bootcamp-this-week.html#featured-keynotes",
+    "href": "posts/2025-08-11-bootcamp-this-week.html#featured-keynotes",
+    "title": "Open Scholarship Bootcamp begins Wednesday, August 13",
+    "section": "Featured Keynotes",
+    "text": "Featured Keynotes\n\n\n\n\n\n\nLogistics\n\n\n\nThe keynotes will be held in Foster Auditorium, 102 Paterno Library and are open to the entire Penn State Community.\n\n\n\nWednesday, August 13, 2025 at 10:45 am\n\nHarnessing AI for scientific integrity\n\n\nSarah Rajtmajer, Penn State College of IST\n\n\n\n\n\n\n\nThursday, August 14, 2025 at 10:45 am\n\nRescuing and preserving public data: The Data Rescue Project\n\n\nLynda Kellam, University of Pennsylvania\n\n\n\n\n\n\n\nFriday, August 15, 2025 at 10:45 am\n\nIntro to copyright and open access publishing (Abstract)\n\n\nDanielle Steinhart, University Libraries"
+  },
+  {
+    "objectID": "posts/2025-08-11-bootcamp-this-week.html#bootcamp-data",
+    "href": "posts/2025-08-11-bootcamp-this-week.html#bootcamp-data",
+    "title": "Open Scholarship Bootcamp begins Wednesday, August 13",
+    "section": "Bootcamp data",
+    "text": "Bootcamp data\nThe following figures provide some data about Bootcamp registrations.\n\nTime seriesBy unitBy workshop\n\n\n\n\n\nTimeseries of registrations.\n\n\n\n\n\n\n\nRegistrations by department and college/school.\n\n\n\n\n\n\n\nInterest by workshop and session.\n\n\n\n\n\n\nThe Bootcamp is sponsored by the Child Study Center, the University Libraries, the Institute for Computational & Data Science, the Social Sciences Research Institute, the Department of Statistics, and the Center for Social Data Analytics."
+  },
+  {
+    "objectID": "posts/2025-07-03-bootcamp.html",
+    "href": "posts/2025-07-03-bootcamp.html",
+    "title": "Open Scholarship Bootcamp registration now open",
+    "section": "",
+    "text": "Registration is now open for the 2025 Open Science Bootcamp, taking place Wednesday, August 13 through Friday, August 15 at the University Park campus. This immersive 2.5-day event is open to all Penn State faculty, staff, and students and offers a hands-on introduction to open science practices that can enhance research transparency, rigor, and impact.\nBootcamp Website & Agenda: https://penn-state-open-science.github.io/bootcamp-2025/\nRegister by August 1st: https://forms.gle/R6SzM4TNppGFzjEY9\nBootcamp directors Rick Gilmore and Alaina Pearce invite you to join them for an event that seeks to empower researchers to make science more open, reproducible, and impactful."
+  },
+  {
+    "objectID": "posts/2025-07-03-bootcamp.html#bootcamp-details",
+    "href": "posts/2025-07-03-bootcamp.html#bootcamp-details",
+    "title": "Open Scholarship Bootcamp registration now open",
+    "section": "Bootcamp details",
+    "text": "Bootcamp details\nThe Bootcamp will focus on these themes:\n\nWhat open science is and why it matters\nEthical and practical considerations of openness\nTools and workflows for reproducible research (including R, R Markdown, Quarto, Python, and Jupyter Notebooks)\nHow to manage data and get credit for sharing data and materials\n\nAttendees wil enjoy continental breakfasts and light lunches (with vegan and vegetarian options), connect with colleagues, and develop practical skills to bring openness to your research.\nPlease note: Space is limited, and registration is a commitment to attend all sessions of the Bootcamp."
+  },
+  {
+    "objectID": "posts/2025-07-03-bootcamp.html#featured-keynotes",
+    "href": "posts/2025-07-03-bootcamp.html#featured-keynotes",
+    "title": "Open Scholarship Bootcamp registration now open",
+    "section": "Featured Keynotes",
+    "text": "Featured Keynotes\n\n\n\n\n\n\nLogistics\n\n\n\nThe keynotes will be held in Foster Auditorium, 102 Paterno Library and are open to the entire Penn State Community.\n\n\n\nWednesday, August 13 at 10:45 AM\nDr. Sarah Rajtmajer (Penn State)\n“Harnessing AI for Scientific Integrity”\n\n\nThursday, August 14 at 10:45 AM\nDr. Lynda Kellam (University of Pennsylvania)\n“Rescuing and Preserving Public Data: The Data Rescue Project”"
+  },
+  {
+    "objectID": "posts/2025-07-03-bootcamp.html#more-information",
+    "href": "posts/2025-07-03-bootcamp.html#more-information",
+    "title": "Open Scholarship Bootcamp registration now open",
+    "section": "More information?",
+    "text": "More information?\nHave questions? Contact Alaina Pearce at azp271@psu.edu. Feel free to share this announcement with interested colleagues and trainees."
+  },
+  {
     "objectID": "posts/2025-04-15-meet-with-oransky.html",
     "href": "posts/2025-04-15-meet-with-oransky.html",
     "title": "Meet with Ivan Oransky on April 21",
@@ -81,7 +130,7 @@
     "href": "initiatives.html",
     "title": "Initiatives",
     "section": "",
-    "text": "The OSI has a number of initiatives. Most of the materials for these initiatives are shared on our GitHub organization page.\n\n\nThis calendar shows upcoming open scholarship events.\n\n\n\n\n\nDuring the Spring 2025 semester, we meet in the Music Seminar Room in Pattee Library (Pattee W325)\nSign up for our Hypothes.is group: https://hypothes.is/groups/mpnnB6bb/psu-osi to provide your own annotations of the readings.\nContribute papers to our Zotero Group: https://www.zotero.org/groups/5819247/research_about_open_scholarship\n\n\nScheel, A. M. (2022). Why most psychological research findings are not even wrong. Infant and Child Development, 31(1). https://doi.org/10.1002/icd.2295\n\n\n\nThompson, W. H., Wright, J., Bissett, P. G., & Poldrack, R. A. (2020). Dataset decay and the problem of sequential analyses on open datasets. eLife, 9. https://doi.org/10.7554/eLife.53498\n\n\n\nBloch, J., & Samuelson, P. (2022, November). Some misconceptions about software in the copyright literature. Proceedings of the 2022 Symposium on Computer Science and Law. CSLAW ’22: Symposium on Computer Science and Law, Washington DC USA. https://doi.org/10.1145/3511265.3550449\n\n\n\nBerberi, I., & Roche, D. G. (2022). No evidence that mandatory open data policies increase error correction. Nature Ecology & Evolution, 6(11), 1630–1633. https://doi.org/10.1038/s41559-022-01879-9\n\n\n\nColavizza, G., Hrynaszkiewicz, I., Staden, I., Whitaker, K., & McGillivray, B. (2020). The citation advantage of linking publications to research data. PloS One, 15(4), e0230416. https://doi.org/10.1371/journal.pone.0230416\n\n\n\n\n\n\nWe surveyed the research community about its knowledge of and interest in open science/open scholarship initiative in late 2022 and early 2023. Our findings are here and the full repository is here. A notable feature of this survey is the use of a fully-shared IRB protocol application.\n\n\n\n\nObstacles to sharing more broadly with the research community as reported by respondents to the Open Science Survey.\n\n\n\n\n\n\n\n\n\n\n\nWe’re hosting another Open Scholarship Bootcamp August 13-15, 2025 at the University Libraries.\nSee the website for more information.\n\n\n\n\n\nBarbara I. Dewey Room at the Penn State University Libraries\n\n\n\n\n\n\n\n\nWe sponsored a workshop on data management practices in Spring 2025. The workshop site is here and the repo is here.\n\n\n\n\n\nRegistrants by college\n\n\n\n\n\n\n\n\nWe sponsored a workshop on data management practices in Spring 2024. The workshop site is here and the repo is here.\n\n\n\n\n\nResults of post-event survey about the Spring 2024 workshop by an independent evaluator.\n\n\n\n\n\n\n\n\nWe sponsored a 2.5 day bootcamp on open science practices in August 2023. The bootcamp featured a variety of presentations and activities, including a keynote by Tim Errington from the Center for Open Science. The bootcamp site is here and the repo is here.\n\n\n\n\n\nRegistrant survey of interest in various topics.\n\n\n\n\n\n\n\nRick Gilmore gave a presentation about the initiative to the Child Study Center in February 2024. The HTML slides are here and the repo is here.\nRick Gilmore gave a guest lecture in the SoDA 501 course in Spring 2024. The HTML slides are here and the repo is here.\nThe University Libraries sponsored a workshop on machine-actionable data management and sharing plans in October 2024. Rick Gilmore gave a short talk about OSI and Penn State’s research data storage initiatives. The HTML slides are here and the repo is here."
+    "text": "The OSI has a number of initiatives. Most of the materials for these initiatives are shared on our GitHub organization page.\n\n\nThis calendar shows upcoming open scholarship events.\n\n\n\n\n\n\n\n\n\nWe’re hosting another Open Scholarship Bootcamp August 13-15, 2025 at the University Libraries.\nSee the website for more information.\n\n\n\n\n\nBarbara I. Dewey Room at the Penn State University Libraries\n\n\n\n\n\n\n\n\nWe sponsored a workshop on data management practices in Spring 2025. The workshop site is here and the repo is here.\n\n\n\n\n\nRegistrants by college\n\n\n\n\n\n\n\n\nWe sponsored a workshop on data management practices in Spring 2024. The workshop site is here and the repo is here.\n\n\n\n\n\nResults of post-event survey about the Spring 2024 workshop by an independent evaluator.\n\n\n\n\n\n\n\n\nWe sponsored a 2.5 day bootcamp on open science practices in August 2023. The bootcamp featured a variety of presentations and activities, including a keynote by Tim Errington from the Center for Open Science. The bootcamp site is here and the repo is here.\n\n\n\n\n\nRegistrant survey of interest in various topics.\n\n\n\n\n\n\n\nDuring the Spring 2025 semester, we meet in the Music Seminar Room in Pattee Library (Pattee W325)\nSign up for our Hypothes.is group: https://hypothes.is/groups/mpnnB6bb/psu-osi to provide your own annotations of the readings.\nContribute papers to our Zotero Group: https://www.zotero.org/groups/5819247/research_about_open_scholarship\n\n\nScheel, A. M. (2022). Why most psychological research findings are not even wrong. Infant and Child Development, 31(1). https://doi.org/10.1002/icd.2295\n\n\n\nThompson, W. H., Wright, J., Bissett, P. G., & Poldrack, R. A. (2020). Dataset decay and the problem of sequential analyses on open datasets. eLife, 9. https://doi.org/10.7554/eLife.53498\n\n\n\nBloch, J., & Samuelson, P. (2022, November). Some misconceptions about software in the copyright literature. Proceedings of the 2022 Symposium on Computer Science and Law. CSLAW ’22: Symposium on Computer Science and Law, Washington DC USA. https://doi.org/10.1145/3511265.3550449\n\n\n\nBerberi, I., & Roche, D. G. (2022). No evidence that mandatory open data policies increase error correction. Nature Ecology & Evolution, 6(11), 1630–1633. https://doi.org/10.1038/s41559-022-01879-9\n\n\n\nColavizza, G., Hrynaszkiewicz, I., Staden, I., Whitaker, K., & McGillivray, B. (2020). The citation advantage of linking publications to research data. PloS One, 15(4), e0230416. https://doi.org/10.1371/journal.pone.0230416\n\n\n\n\n\n\nWe surveyed the research community about its knowledge of and interest in open science/open scholarship initiative in late 2022 and early 2023. Our findings are here and the full repository is here. A notable feature of this survey is the use of a fully-shared IRB protocol application.\n\n\n\n\nObstacles to sharing more broadly with the research community as reported by respondents to the Open Science Survey.\n\n\n\n\n\n\n\n\n\n\n\nWe’re hosting another Open Scholarship Bootcamp August 13-15, 2025 at the University Libraries.\nSee the website for more information.\n\n\n\n\n\nBarbara I. Dewey Room at the Penn State University Libraries\n\n\n\n\n\n\n\n\nWe sponsored a workshop on data management practices in Spring 2025. The workshop site is here and the repo is here.\n\n\n\n\n\nRegistrants by college\n\n\n\n\n\n\n\n\nWe sponsored a workshop on data management practices in Spring 2024. The workshop site is here and the repo is here.\n\n\n\n\n\nResults of post-event survey about the Spring 2024 workshop by an independent evaluator.\n\n\n\n\n\n\n\n\nWe sponsored a 2.5 day bootcamp on open science practices in August 2023. The bootcamp featured a variety of presentations and activities, including a keynote by Tim Errington from the Center for Open Science. The bootcamp site is here and the repo is here.\n\n\n\n\n\nRegistrant survey of interest in various topics.\n\n\n\n\n\n\n\nRick Gilmore gave a presentation about the initiative to the Child Study Center in February 2024. The HTML slides are here and the repo is here.\nRick Gilmore gave a guest lecture in the SoDA 501 course in Spring 2024. The HTML slides are here and the repo is here.\nThe University Libraries sponsored a workshop on machine-actionable data management and sharing plans in October 2024. Rick Gilmore gave a short talk about OSI and Penn State’s research data storage initiatives. The HTML slides are here and the repo is here."
   },
   {
     "objectID": "initiatives.html#calendar",
@@ -89,6 +138,13 @@
     "title": "Initiatives",
     "section": "",
     "text": "This calendar shows upcoming open scholarship events."
+  },
+  {
+    "objectID": "initiatives.html#workshops-and-bootcamps",
+    "href": "initiatives.html#workshops-and-bootcamps",
+    "title": "Initiatives",
+    "section": "",
+    "text": "We’re hosting another Open Scholarship Bootcamp August 13-15, 2025 at the University Libraries.\nSee the website for more information.\n\n\n\n\n\nBarbara I. Dewey Room at the Penn State University Libraries\n\n\n\n\n\n\n\n\nWe sponsored a workshop on data management practices in Spring 2025. The workshop site is here and the repo is here.\n\n\n\n\n\nRegistrants by college\n\n\n\n\n\n\n\n\nWe sponsored a workshop on data management practices in Spring 2024. The workshop site is here and the repo is here.\n\n\n\n\n\nResults of post-event survey about the Spring 2024 workshop by an independent evaluator.\n\n\n\n\n\n\n\n\nWe sponsored a 2.5 day bootcamp on open science practices in August 2023. The bootcamp featured a variety of presentations and activities, including a keynote by Tim Errington from the Center for Open Science. The bootcamp site is here and the repo is here.\n\n\n\n\n\nRegistrant survey of interest in various topics."
   },
   {
     "objectID": "initiatives.html#journal-club",
@@ -105,8 +161,8 @@
     "text": "We surveyed the research community about its knowledge of and interest in open science/open scholarship initiative in late 2022 and early 2023. Our findings are here and the full repository is here. A notable feature of this survey is the use of a fully-shared IRB protocol application.\n\n\n\n\nObstacles to sharing more broadly with the research community as reported by respondents to the Open Science Survey."
   },
   {
-    "objectID": "initiatives.html#workshops-and-bootcamps",
-    "href": "initiatives.html#workshops-and-bootcamps",
+    "objectID": "initiatives.html#workshops-and-bootcamps-1",
+    "href": "initiatives.html#workshops-and-bootcamps-1",
     "title": "Initiatives",
     "section": "",
     "text": "We’re hosting another Open Scholarship Bootcamp August 13-15, 2025 at the University Libraries.\nSee the website for more information.\n\n\n\n\n\nBarbara I. Dewey Room at the Penn State University Libraries\n\n\n\n\n\n\n\n\nWe sponsored a workshop on data management practices in Spring 2025. The workshop site is here and the repo is here.\n\n\n\n\n\nRegistrants by college\n\n\n\n\n\n\n\n\nWe sponsored a workshop on data management practices in Spring 2024. The workshop site is here and the repo is here.\n\n\n\n\n\nResults of post-event survey about the Spring 2024 workshop by an independent evaluator.\n\n\n\n\n\n\n\n\nWe sponsored a 2.5 day bootcamp on open science practices in August 2023. The bootcamp featured a variety of presentations and activities, including a keynote by Tim Errington from the Center for Open Science. The bootcamp site is here and the repo is here.\n\n\n\n\n\nRegistrant survey of interest in various topics."
@@ -210,13 +266,6 @@
     "text": "Ivan Oransky, M.D., Co-founder, Retraction Watch, Editor in chief, The Transmitter, and Distinguished journalist in residence, Arthur Carter Journalism Institute, New York University will visit Penn State on Monday, April 21, 2025 to give a talk entitled “Retractions: On the rise but not enough”.\nThe talk will be held at 3:00 pm in the Foster Auditorium, 102 Paterno Library. Refreshments will be served after the talk.\nAll are welcome."
   },
   {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "Resources",
-    "section": "",
-    "text": "Resources"
-  },
-  {
     "objectID": "posts/2025-07-02-open-access-event.html",
     "href": "posts/2025-07-02-open-access-event.html",
     "title": "Open Access Week event at Penn State Libraries",
@@ -224,52 +273,17 @@
     "text": "The Penn State University Libraries will host a panel discussion on the topic “We are enough: Practical open access for everyone,” featuring Peter Suber, Sarah Lamdan, and Dr. Samuel Moore on Thursday, October 23, 2025, from 11:00 am to 12:30 pm EDT via Zoom. Jeff Edwards will moderate.\nThe event is part of Open Access Week.\nTo participate, follow this link"
   },
   {
-    "objectID": "posts/2025-07-03-bootcamp.html",
-    "href": "posts/2025-07-03-bootcamp.html",
-    "title": "Open Scholarship Bootcamp registration now open",
-    "section": "",
-    "text": "Registration is now open for the 2025 Open Science Bootcamp, taking place Wednesday, August 13 through Friday, August 15 at the University Park campus. This immersive 2.5-day event is open to all Penn State faculty, staff, and students and offers a hands-on introduction to open science practices that can enhance research transparency, rigor, and impact.\nBootcamp Website & Agenda: https://penn-state-open-science.github.io/bootcamp-2025/\nRegister by August 1st: https://forms.gle/R6SzM4TNppGFzjEY9\nBootcamp directors Rick Gilmore and Alaina Pearce invite you to join them for an event that seeks to empower researchers to make science more open, reproducible, and impactful."
-  },
-  {
-    "objectID": "posts/2025-07-03-bootcamp.html#the-bootcamp-will-cover",
-    "href": "posts/2025-07-03-bootcamp.html#the-bootcamp-will-cover",
-    "title": "Open Scholarship Bootcamp registration now open",
-    "section": "The Bootcamp will cover:",
-    "text": "The Bootcamp will cover:\n\nWhat open science is and why it matters\nEthical and practical considerations of openness\nTools and workflows for reproducible research (including R, R Markdown, Quarto, Python, and Jupyter Notebooks)\nHow to manage data and get credit for sharing data and materials\n\nAttendees wil enjoy continental breakfasts and light lunches (with vegan and vegetarian options), connect with colleagues, and develop practical skills to bring openness to your research.\nPlease note: Space is limited, and registration is a commitment to attend all sessions of the Bootcamp."
-  },
-  {
-    "objectID": "posts/2025-07-03-bootcamp.html#featured-keynotes-open-to-the-penn-state-community",
-    "href": "posts/2025-07-03-bootcamp.html#featured-keynotes-open-to-the-penn-state-community",
-    "title": "Open Scholarship Bootcamp registration now open",
-    "section": "Featured Keynotes (Open to the Penn State Community)",
-    "text": "Featured Keynotes (Open to the Penn State Community)\nHeld in Foster Auditorium, 102 Paterno Library\nWednesday, August 13 at 10:45 AM — Dr. Sarah Rajtmajer (Penn State) “Harnessing AI for Scientific Integrity”\nThursday, August 14 at 10:45 AM — Dr. Lynda Kellam (University of Pennsylvania) “Rescuing and Preserving Public Data: The Data Rescue Project”\nHave questions? Contact Alaina Pearce at azp271@psu.edu. Feel free to share this announcement with interested colleagues and trainees.\nBootcamp directors Rick Gilmore and Alaina Pearce ask you to join them for this event that empowers researchers to make science more open, reproducible, and impactful."
-  },
-  {
-    "objectID": "posts/2025-07-03-bootcamp.html#bootcamp-details",
-    "href": "posts/2025-07-03-bootcamp.html#bootcamp-details",
-    "title": "Open Scholarship Bootcamp registration now open",
-    "section": "Bootcamp details",
-    "text": "Bootcamp details\nThe Bootcamp will focus on these themes:\n\nWhat open science is and why it matters\nEthical and practical considerations of openness\nTools and workflows for reproducible research (including R, R Markdown, Quarto, Python, and Jupyter Notebooks)\nHow to manage data and get credit for sharing data and materials\n\nAttendees wil enjoy continental breakfasts and light lunches (with vegan and vegetarian options), connect with colleagues, and develop practical skills to bring openness to your research.\nPlease note: Space is limited, and registration is a commitment to attend all sessions of the Bootcamp."
-  },
-  {
-    "objectID": "posts/2025-07-03-bootcamp.html#featured-keynotes",
-    "href": "posts/2025-07-03-bootcamp.html#featured-keynotes",
-    "title": "Open Scholarship Bootcamp registration now open",
-    "section": "Featured Keynotes",
-    "text": "Featured Keynotes\n\n\n\n\n\n\nLogistics\n\n\n\nThe keynotes will be held in Foster Auditorium, 102 Paterno Library and are open to the entire Penn State Community.\n\n\n\nWednesday, August 13 at 10:45 AM\nDr. Sarah Rajtmajer (Penn State)\n“Harnessing AI for Scientific Integrity”\n\n\nThursday, August 14 at 10:45 AM\nDr. Lynda Kellam (University of Pennsylvania)\n“Rescuing and Preserving Public Data: The Data Rescue Project”"
-  },
-  {
-    "objectID": "posts/2025-07-03-bootcamp.html#more-information",
-    "href": "posts/2025-07-03-bootcamp.html#more-information",
-    "title": "Open Scholarship Bootcamp registration now open",
-    "section": "More information?",
-    "text": "More information?\nHave questions? Contact Alaina Pearce at azp271@psu.edu. Feel free to share this announcement with interested colleagues and trainees."
-  },
-  {
     "objectID": "posts/2025-07-07-nih-open-access-policy.html",
     "href": "posts/2025-07-07-nih-open-access-policy.html",
     "title": "New NIH Open Access Policy goes into effect July 1, 2025",
     "section": "",
     "text": "The National Institutes of Health (NIH) released the NIH Access Policy on December 17, 2024. On April 30, 2025, NIH updated the policy to have an effective date of July 1, 2025.\nThe policy requires Author Accepted Manuscripts accepted for publication in a journal on or after July 1, 2025, to be submitted to PubMed Central upon acceptance for publication, for public availability without embargo upon the Official Date of Publication.\nWhat do authors need to do to comply with the 2024 NIH Public Access Policy?\nBeginning July 1, 2025, submit any Accepted Manuscripts to the NIH Manuscript Submission System upon acceptance by the journal. If prompted, specify that there be no embargo period. Some journals will submit articles to PubMed Central on behalf of authors, in which case it is not necessary for the author to submit. Compliance with the policy remains the responsibility of the NIH awardee, not the journal. If your journal is going to submit for you, you should still retain a copy of your accepted manuscript so that you are also in a position to comply. For more information, please consult:\nConsider including the following recommended text from NIH in new manuscript submissions to journals: “This manuscript is the result of funding in whole or in part by the National Institutes of Health (NIH). It is subject to the NIH Public Access Policy. Through acceptance of this federal funding, NIH has been given a right to make this manuscript publicly available in PubMed Central upon the Official Date of Publication, as defined by NIH.” This text may accompany the required funding acknowledgement.\nFor more FAQ and guidance on the 2024 NIH Public Access Policy and 2023 NIH Data Management and Sharing Policy, see https://researchsupport.psu.edu/orp/nih-data-requirements/."
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Resources"
   }
 ]

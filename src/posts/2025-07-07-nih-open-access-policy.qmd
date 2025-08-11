@@ -1,5 +1,6 @@
 ---
 title: "New NIH Open Access Policy goes into effect July 1, 2025"
+date: 2025-07-01
 categories:
   - open access
   - policy

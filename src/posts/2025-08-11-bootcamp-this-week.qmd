@@ -1,0 +1,96 @@
+---
+title: "Open Scholarship Bootcamp begins Wednesday, August 13"
+date: 2025-08-11
+categories:
+  - talk
+  - events
+  - public
+  - social event
+  - workshop
+  - open access
+  - data management
+  - Quarto
+  - R
+  - Python
+  - Jupyter
+image: "../include/img/banner.png"
+---
+
+The Penn State Open Scholarship Bootcamp begins this Wednesday, August 13, 2025.
+The Bootcamp is open to all Penn Staters and starts with a continental breakfast at 8:30 am in the Pattee Library Dewey Room. 
+
+The 2 1/2 day event features keynote talks by leaders in open scholarship, hands-on workshops, lively discussions, and multiple opportunities for informal networking and socializing.
+
+The Bootcamp website and detailed schedule may be found here:
+
+<https://penn-state-open-science.github.io/bootcamp-2025/>
+
+## Featured Keynotes
+
+:::{.callout-note}
+## Logistics
+
+The keynotes will be held in Foster Auditorium, 102 Paterno Library and are open to the entire Penn State Community.
+:::
+
+### Wednesday, August 13, 2025 at 10:45 am
+
+#### Harnessing AI for scientific integrity
+
+:::: {.columns}
+::: {.column width=80%}
+[Sarah Rajtmajer](https://penn-state-open-science.github.io/bootcamp-2025/presenters.html#sarah-rajtmajer), Penn State College of IST
+:::
+::: {.column width=20%}
+![](https://penn-state-open-science.github.io/bootcamp-2025/include/img/rajtmajer-sarah.png){width=100px height=100px}
+:::
+::::
+
+### Thursday, August 14, 2025 at 10:45 am
+
+#### Rescuing and preserving public data: The Data Rescue Project
+
+:::: {.columns}
+::: {.column width=80%}
+[Lynda Kellam](https://penn-state-open-science.github.io/bootcamp-2025/presenters.html#lynda-kellam), University of Pennsylvania
+:::
+::: {.column width=20%}
+![](https://penn-state-open-science.github.io/bootcamp-2025/include/img/kellam-lynda.jpg){width=100px height=100px}
+:::
+::::
+
+### Friday, August 15, 2025 at 10:45 am
+
+#### Intro to copyright and open access publishing ([Abstract](https://penn-state-open-science.github.io/bootcamp-2025/sessions.html#intro-to-copyright-and-open-access-publishing))
+
+:::: {.columns}
+::: {.column width=80%}
+[Danielle Steinhart](https://penn-state-open-science.github.io/bootcamp-2025/presenters.html#danielle-steinhart), University Libraries
+:::
+::: {.column width=20%}
+![](https://penn-state-open-science.github.io/bootcamp-2025/include/img/steinhart-danielle.jpg){width=100px height=100px}
+:::
+::::
+
+## Bootcamp data
+
+The following figures provide some data about Bootcamp registrations.
+
+::: panel-tabset
+## Time series
+
+![Timeseries of registrations.](https://penn-state-open-science.github.io/bootcamp-2025/include/fig/fig-registration-time-series-1.png)
+
+## By unit
+
+![Registrations by department and college/school.](https://penn-state-open-science.github.io/bootcamp-2025/include/fig/fig-regis-dept-coll-1.png)
+
+## By workshop
+
+![Interest by workshop and session.](https://penn-state-open-science.github.io/bootcamp-2025/include/fig/fig-workshop-interest-1.png)
+
+:::
+
+---
+
+The Bootcamp is sponsored by the Child Study Center, the University Libraries, the Institute for Computational & Data Science, the Social Sciences Research Institute, the Department of Statistics, and the Center for Social Data Analytics.

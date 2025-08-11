@@ -9,6 +9,59 @@ This calendar shows upcoming open scholarship events.
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&showPrint=0&mode=AGENDA&src=MzhjOTEwYTgzNDMzZDNjNzViNGZmMzA3MmE2NGM4NTIzMjQ2YWZiYTczNzg1NjA5MWY1YzYyMWE0MzBiOGE1Y0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23a2845e" style="border:solid 1px #777" width="700" height="600" frameborder="0" scrolling="no"></iframe>
 
+## Workshops and Bootcamps
+
+:::: {.columns}
+::: {.column width=60%}
+### Open Scholarship Bootcamp August 2025
+
+We're hosting another Open Scholarship Bootcamp August 13-15, 2025 at the University Libraries.
+
+See the [website](https://penn-state-open-science.github.io/bootcamp-2025/) for more information.
+:::
+::: {.column width=40%}
+![Barbara I. Dewey Room at the Penn State University Libraries](https://psu-gatsby-files-prod.s3.amazonaws.com/s3fs-public/DSC_6681%20for%20PSNews%20Dewey%20room%20naming.jpg)
+:::
+::::
+
+:::: {.columns}
+::: {.column width = "60%"}
+### Spring 2025 workshop
+
+We sponsored a workshop on data management practices in Spring 2025.
+The workshop site is [here](https://penn-state-open-science.github.io/data-mgmt-2025/) and the repo is [here](https://github.com/data-mgmt-2025/).
+:::
+::: {.column width = "40%"}
+![Registrants by college](https://penn-state-open-science.github.io/data-mgmt-2025/include/fig/fig-registrations-college-position-1.png)
+:::
+::::
+
+:::: {.columns}
+::: {.column width="60%"}
+### Spring 2024 workshop
+
+We sponsored a workshop on data management practices in Spring 2024.
+The workshop site is [here](https://penn-state-open-science.github.io/data-mgmt-2024/) and the repo is [here](https://github.com/data-mgmt-2024/).
+:::
+::: {.column width="40%"}
+![Results of post-event survey about the Spring 2024 workshop by an independent evaluator. ](https://penn-state-open-science.github.io/data-mgmt-2024/include/img/post-survey-fig2.png){.lightbox}
+:::
+::::
+
+:::: {.columns}
+::: {.column width="60%"}
+### Summer 2023 Bootcamp
+
+We sponsored a 2.5 day bootcamp on open science practices in August 2023.
+The bootcamp featured a variety of presentations and activities, including a keynote by Tim Errington from the Center for Open Science.
+The bootcamp site is [here](https://penn-state-open-science.github.io/bootcamp-2023/) and the repo is [here](https://github.com/penn-state-open-science/bootcamp-2023).
+
+:::
+::: {.column width="40%"}
+![Registrant survey of interest in various topics.](https://penn-state-open-science.github.io/bootcamp-2023/include/img/survey-1-interests-1.png){.lightbox}
+:::
+::::
+
 ## Journal club
 
 During the Spring 2025 semester, we meet in the Music Seminar Room in Pattee Library (Pattee W325)
