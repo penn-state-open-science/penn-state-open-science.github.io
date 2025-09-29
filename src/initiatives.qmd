@@ -26,6 +26,7 @@ See the [website](https://penn-state-open-science.github.io/bootcamp-2025/) for 
 
 :::: {.columns}
 ::: {.column width = "60%"}
+
 ### Spring 2025 workshop
 
 We sponsored a workshop on data management practices in Spring 2025.

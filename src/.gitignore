@@ -1,1 +1,3 @@
 /.quarto/
+private/
+**/*.quarto_ipynb
