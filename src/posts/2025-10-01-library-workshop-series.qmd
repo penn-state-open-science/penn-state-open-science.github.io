@@ -1,0 +1,15 @@
+---
+title: "Library workshops on reproducibility in R"
+date: 2025-10-01
+categories:
+  - open data
+  - events
+---
+
+::: {.callout-warning}
+
+This is a draft post.
+
+:::
+
+The Penn State University Libraries are hosting a series of workshops....

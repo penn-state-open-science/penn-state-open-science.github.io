@@ -200,7 +200,7 @@
     "href": "index.html",
     "title": "Open Scholarship Initiative",
     "section": "",
-    "text": "Welcome to the home page for the Penn State Open Scholarship Initiative. This site summarizes our mission, leadership, and initiatives.\nIf you would like to be kept informed about our work via a low traffic listserv, scan the QR code below, click here or email Rick Gilmore.\nFigure 1: Subscribe to l-open-science@lists.psu.edu"
+    "text": "Welcome to the home page for the Penn State Open Scholarship Initiative. This site summarizes our mission, leadership, and initiatives.\nIf you would like to be kept informed about our work via a low traffic listserv, scan the QR code below, click here or email Rick Gilmore.\nSee Figure 1.\nFigure 1: Subscribe to l-open-science@lists.psu.edu"
   },
   {
     "objectID": "index.html#posts",
@@ -285,5 +285,12 @@
     "title": "Resources",
     "section": "",
     "text": "Resources"
+  },
+  {
+    "objectID": "posts/2025-10-01-library-workshop-series.html",
+    "href": "posts/2025-10-01-library-workshop-series.html",
+    "title": "Library workshops on reproducibility in R",
+    "section": "",
+    "text": "Warning\n\n\n\nThis is a draft post.\n\n\nDo I need somethign else?"
   }
 ]
