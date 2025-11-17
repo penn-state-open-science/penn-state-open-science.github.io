@@ -14,6 +14,13 @@
     "text": "Standard workflow\n\nOpen project\nPull\nMake changes\nRender site\nPreview site\nCommit changes\nPush to GitHub\n\n\n\n\n\n\nflowchart LR\n  A[Open project] --&gt; B(Pull)\n  B --&gt; C{Make changes}\n  C --&gt; D[Render site]\n  D --&gt; E[Preview site]"
   },
   {
+    "objectID": "posts/2025-11-17-sleic-workshop.html",
+    "href": "posts/2025-11-17-sleic-workshop.html",
+    "title": "Project & data management workshop",
+    "section": "",
+    "text": "Rick Gilmore and Alaina Pearce will present a workshop on best practices in project and data management as part of the SLEIC Educational Workshop Series. The event will be held on Tuesday, December 2, 2025 from 9:00am - 10:30am in 101 Henderson Building.\nThe workshop slides are here: https://penn-state-open-science.github.io/sleic-best-practices-2025-12-02/"
+  },
+  {
     "objectID": "posts/2025-08-11-bootcamp-this-week.html",
     "href": "posts/2025-08-11-bootcamp-this-week.html",
     "title": "Open Scholarship Bootcamp begins Wednesday, August 13",
@@ -280,17 +287,38 @@
     "text": "The National Institutes of Health (NIH) released the NIH Access Policy on December 17, 2024. On April 30, 2025, NIH updated the policy to have an effective date of July 1, 2025.\nThe policy requires Author Accepted Manuscripts accepted for publication in a journal on or after July 1, 2025, to be submitted to PubMed Central upon acceptance for publication, for public availability without embargo upon the Official Date of Publication.\nWhat do authors need to do to comply with the 2024 NIH Public Access Policy?\nBeginning July 1, 2025, submit any Accepted Manuscripts to the NIH Manuscript Submission System upon acceptance by the journal. If prompted, specify that there be no embargo period. Some journals will submit articles to PubMed Central on behalf of authors, in which case it is not necessary for the author to submit. Compliance with the policy remains the responsibility of the NIH awardee, not the journal. If your journal is going to submit for you, you should still retain a copy of your accepted manuscript so that you are also in a position to comply. For more information, please consult:\nConsider including the following recommended text from NIH in new manuscript submissions to journals: “This manuscript is the result of funding in whole or in part by the National Institutes of Health (NIH). It is subject to the NIH Public Access Policy. Through acceptance of this federal funding, NIH has been given a right to make this manuscript publicly available in PubMed Central upon the Official Date of Publication, as defined by NIH.” This text may accompany the required funding acknowledgement.\nFor more FAQ and guidance on the 2024 NIH Public Access Policy and 2023 NIH Data Management and Sharing Policy, see https://researchsupport.psu.edu/orp/nih-data-requirements/."
   },
   {
+    "objectID": "posts/2025-10-01-library-workshop-series.html",
+    "href": "posts/2025-10-01-library-workshop-series.html",
+    "title": "Library workshops on reproducibility in R",
+    "section": "",
+    "text": "The Penn State University Libraries are hosting a series of workshops on statistical and data analysis packages:"
+  },
+  {
+    "objectID": "posts/2025-10-01-library-workshop-series.html#introduction-to-minitab-oct.-23-24-p.m.",
+    "href": "posts/2025-10-01-library-workshop-series.html#introduction-to-minitab-oct.-23-24-p.m.",
+    "title": "Library workshops on reproducibility in R",
+    "section": "Introduction to Minitab — Oct. 23, 2–4 p.m.",
+    "text": "Introduction to Minitab — Oct. 23, 2–4 p.m.\nThis session will provide introductory knowledge on how to use Minitab for quantitative statistical analysis, with demonstrations using a practice dataset. Participants will learn how to access Minitab, navigate the software interface, input and transform data, specify variables, and conduct exploratory data analysis and some basic statistical tests. No previous Minitab experience is required.\nRegister for this session here."
+  },
+  {
+    "objectID": "posts/2025-10-01-library-workshop-series.html#level-up-your-r-skills-functions-reproducible-workflows-postdocs-only-nov.-12-1230-p.m.",
+    "href": "posts/2025-10-01-library-workshop-series.html#level-up-your-r-skills-functions-reproducible-workflows-postdocs-only-nov.-12-1230-p.m.",
+    "title": "Library workshops on reproducibility in R",
+    "section": "Level Up Your R Skills: Functions & Reproducible Workflows (Postdocs only) — Nov. 12, 1–2:30 p.m.",
+    "text": "Level Up Your R Skills: Functions & Reproducible Workflows (Postdocs only) — Nov. 12, 1–2:30 p.m.\nFor postdocs: Advance your R skills by writing functions, streamlining code, and structuring projects for reproducibility and collaboration.\nRegister for this session here."
+  },
+  {
+    "objectID": "posts/2025-10-01-library-workshop-series.html#introduction-to-jasp-nov.-18-24-p.m.",
+    "href": "posts/2025-10-01-library-workshop-series.html#introduction-to-jasp-nov.-18-24-p.m.",
+    "title": "Library workshops on reproducibility in R",
+    "section": "Introduction to JASP — Nov. 18, 2–4 p.m.",
+    "text": "Introduction to JASP — Nov. 18, 2–4 p.m.\nA beginner-friendly introduction to JASP. Learn how to run descriptive and basic statistical tests with practice datasets in this open-source alternative to SPSS.\nRegister for this session here."
+  },
+  {
     "objectID": "resources.html",
     "href": "resources.html",
     "title": "Resources",
     "section": "",
     "text": "Resources"
-  },
-  {
-    "objectID": "posts/2025-11-17-sleic-workshop.html",
-    "href": "posts/2025-11-17-sleic-workshop.html",
-    "title": "Project & data management workshop",
-    "section": "",
-    "text": "Rick Gilmore and Alaina Pearce will present a workshop on best practices in project and data management as part of the SLEIC Educational Workshop Series. The event will be held on Tuesday, December 2, 2025 from 9:00am - 10:30am in 101 Henderson Building.\nThe workshop slides are here: https://penn-state-open-science.github.io/sleic-best-practices-2025-12-02/"
   }
 ]
