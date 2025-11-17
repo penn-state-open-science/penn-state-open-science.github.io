@@ -1,0 +1,17 @@
+---
+title: "Project & data management workshop"
+date: 2025-11-17
+categories:
+  - open data
+  - events
+  - data management
+  - reproducibility
+  - workshop
+image: "../include/img/sleic-banner.png"
+---
+
+Rick Gilmore and Alaina Pearce will present a workshop on best practices in project and data management as part of the SLEIC Educational [Workshop Series](https://www.imaging.psu.edu/events/sleic-educational-workshop-series-fall-2025-best-practices-project-management-and-data).
+The event will be held on Tuesday, December 2, 2025 from 9:00am - 10:30am in 101 [Henderson Building](https://map.psu.edu/?id=1134#!ct/25403,26748,26749,26750,27255?m/294367?s/henderson).
+
+The workshop slides are here: <https://penn-state-open-science.github.io/sleic-best-practices-2025-12-02/>
+
