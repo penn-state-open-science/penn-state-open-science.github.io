@@ -1,0 +1,48 @@
+---
+title: "Open Scholarship Bootcamp registration now open"
+date: 2026-03-03
+categories:
+  - talk
+  - events
+  - public
+  - social event
+  - workshop
+  - open access
+  - data management
+  - ethics
+  - data sharing
+image: "../include/img/banner-2026.png"
+---
+
+Registration is now open for the 2026 Open Science Bootcamp, taking place Monday, May 11 and Tuesday, May 12 at the University Park campus. 
+This immersive 2-day event is open to all Penn State faculty, staff, and students and offers a hands-on introduction to open science practices that can enhance research transparency, rigor, and impact.
+
+**Bootcamp Website & Agenda**: <https://penn-state-open-science.github.io/bootcamp-2026/>
+
+**Register by April 15st**: <https://forms.gle/kgjeZEPGPhCAQNrcA>
+
+Bootcamp directors Rick Gilmore and Alaina Pearce invite you to join them for an event that seeks to empower researchers to make science more open, reproducible, and impactful.
+
+## Bootcamp details
+
+The Bootcamp will focus on these themes:
+
+- What open science is and why it matters
+- Ethical and practical considerations of openness
+- Tools and workflows for reproducible research (including R, R Markdown, Quarto, Python, and Jupyter Notebooks)
+- How to manage data and get credit for sharing data and materials
+
+Attendees wil enjoy continental breakfasts and light lunches (with vegan and vegetarian options), connect with colleagues, and develop practical skills to bring openness to your research.
+
+*Please note*: Space is limited, and registration is a commitment to attend all sessions of the Bootcamp.
+
+:::{.callout-note}
+## Logistics
+
+The keynotes will be held in Foster Auditorium, 102 Paterno Library and are open to the entire Penn State Community.
+:::
+
+## More information?
+
+Have questions? Contact Alaina Pearce at azp271@psu.edu.
+Feel free to share this announcement with interested colleagues and trainees.
